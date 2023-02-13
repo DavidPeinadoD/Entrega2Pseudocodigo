@@ -1,2 +1,3 @@
-# Ebtrega2Pseudocodigo
-Entrega2
+# Entrega2Pseudocodigo
+Entrega 2: DavidPeinadoD/Ebtrega2Pseudocodigo
+
